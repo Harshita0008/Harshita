@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently a Final Year Student At *Indira Gandhi Delhi Technical University for Women*
 
-- 🤝 I’m a 20 years old female hailing from **India** 
+- 🤝 I’m a 20 years old hailing from **India** 
 - - 📫 How to reach me **harshitathakur0008@gmail.com**
 
 - 📝 Publications Research Paper titled “Metaverse: Democratization of reality E-commerce using AR and VR” at ICWTNS’22 
